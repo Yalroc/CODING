@@ -9,4 +9,9 @@ div {
 span {
 	background-color: Purple;
 	font-size: 35px;
+	font-family: sans-serif;
+}
+
+body {
+	text-align: center;
 }
