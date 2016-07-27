@@ -101,6 +101,6 @@ p {
 .no_shape {
   border: none;
   box-shadow: none;
-  background-color: none;
-  border-radius: none;
+  background-color: transparent;
+  text-decoration: none;
 }
