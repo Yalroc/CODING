@@ -49,6 +49,10 @@ p {
   padding-left: 15px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .ambition_in_life_table {
   margin: 0 auto;
   margin-bottom: 30px;
